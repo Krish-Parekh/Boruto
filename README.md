@@ -25,7 +25,7 @@
   - Repository Pattern
 - [Retrofit2 & OkHttp3](https://github.com/square/retrofit) - Construct the REST APIs.
 - [Moshi](https://github.com/square/moshi/) - A modern JSON library for Kotlin and Java.
-- [Coil](https://coil-kt.github.io/coil/compose/)
+- [Coil](https://coil-kt.github.io/coil/compose/) - An image loading library for Android backed by Kotlin Coroutines.
 - [Material-Components](https://github.com/material-components/material-components-android) - Material design components for building ripple animation, and CardView.
 - [Palette](https://developer.android.com/training/material/palette-colors) -The palette library is a support library that extracts prominent colors from images to help you create visually engaging apps
 - [SwipeToRefresh](https://code.amcbizprojects.co.in/2021/09/12/swipe-refresh-layout-jetpack-compose/) - Swipe Refresh in jetpack compose is same as SwipeRefreshLayout with the help of which you can update your UI just swiping from up to down.
