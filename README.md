@@ -30,9 +30,9 @@
 - [Palette](https://developer.android.com/training/material/palette-colors) -The palette library is a support library that extracts prominent colors from images to help you create visually engaging apps
 - [SwipeToRefresh](https://code.amcbizprojects.co.in/2021/09/12/swipe-refresh-layout-jetpack-compose/) - Swipe Refresh in jetpack compose is same as SwipeRefreshLayout with the help of which you can update your UI just swiping from up to down.
 - Custom Views
-  - [Rainbow](https://github.com/skydoves/rainbow) - An easy way to apply gradations and tinting for Android.
-  - [AndroidRibbon](https://github.com/skydoves/androidribbon) - A simple way to implement a beautiful ribbon with the shimmering on Android.
-  - [ProgressView](https://github.com/skydoves/progressview) - A polished and flexible ProgressView, fully customizable with animations.
+  - [Rating Widget](https://github.com/Krish-Parekh/Boruto/blob/master/app/src/main/java/com/krish/borutoapp/presentation/components/RatingWidget.kt) - A custom rating widget for each character.
+  - [Ordered List](https://github.com/Krish-Parekh/Boruto/blob/master/app/src/main/java/com/krish/borutoapp/presentation/components/OrderList.kt) - To display the abilities, family and nature in the order of their appearance.
+  - [Shimmer Effect](https://github.com/Krish-Parekh/Boruto/blob/master/app/src/main/java/com/krish/borutoapp/presentation/components/ShimmerEffect.kt) - A shimmer effect for the list of characters when they are in loading state.
 
 <br>
 <br>
